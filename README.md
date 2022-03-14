@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timurschw
 - 👀 I’m interested in learning smth new everyday!
-- 🌱 I’m currently learning math for my exams :(
+- 🌱 I’m currently learning math for my exams.
 - 💞️ I’m looking to collaborate on software development!
 - 📫 How to reach me? 
 
